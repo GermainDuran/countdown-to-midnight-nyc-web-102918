@@ -7,5 +7,5 @@
        number -= 1
   end
   
-  puts "HAPPY NEW YEAR!"
+  Return "HAPPY NEW YEAR!"
 end
