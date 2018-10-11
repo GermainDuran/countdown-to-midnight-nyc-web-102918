@@ -7,5 +7,5 @@
        number -= 1
   end
   
-  Return "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
